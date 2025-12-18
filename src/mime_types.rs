@@ -997,7 +997,7 @@ pub static MIME_TYPES: &[(&str, &[&str])] = &[
     ("pvb", &["application/vnd.3gpp.pic-bw-var"]),
     ("pwn", &["application/vnd.3m.post-it-notes"]),
     ("pwz", &["application/vnd.ms-powerpoint"]),
-    ("py", &["text/x-python"]),
+    ("py", &["text/x-python","text/plain"]),
     ("pya", &["audio/vnd.ms-playready.media.pya"]),
     ("pyv", &["video/vnd.ms-playready.media.pyv"]),
     ("qam", &["application/vnd.epson.quickanime"]),
